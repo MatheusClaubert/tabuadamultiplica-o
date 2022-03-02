@@ -1,0 +1,25 @@
+.corpodosite{
+    background-color: rebeccapurple;
+
+}
+.tituloprincipal{
+    text-align: center;
+    color:azure;
+
+}
+.conteudoprincipal{
+    text-align: center;
+    background-color:tomato;
+    color:azure;
+    font-size: 25px;
+   
+}
+.telabuttom{
+    text-align: center;
+    background-color:azure;
+    font-size: 35px;
+    color: tomato;
+    margin-left: 720px;
+    margin-right: 720px;
+ 
+}
